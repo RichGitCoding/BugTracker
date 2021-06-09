@@ -1,0 +1,24 @@
+use bootstrapper,html,css
+start with how to access React, or use python and flask
+can be built on HTML, CSS, JAVASCRIPT, SQL, AND BOOTSTRAP, with Asp.net Maybe react
+if python, use react as frontend and django as backend, js as front end
+
+
+For starting:
+components
+    users->user roles
+    tickets->bug types
+    projects->[have users->users have roles]-> have tickets
+actions
+    ticket history
+    User Roles actions -> Admin can assign projects to Users (CRUD) and User Roles (CRUD)
+    Users can create Tickets (CRUD)
+    Ticket details -> [Submitter, Status, Ticket's Projects] (CRUD)
+
+checklist
+    -how to use react, databases
+
+
+    webpack.config tells where you are gonna output js file
+
+    scripts: 
